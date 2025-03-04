@@ -23,8 +23,8 @@ I thrive on **turning data into decisions** and making AI work smarter for busin
 🔹 Designing **interactive data dashboards & reports**  
 
 ## 📫 **Let’s Connect!**  
-📧 Email: noumanjavaid@renesistech.com  
-🔗 [LinkedIn Profile](#) *(Insert your link here!)*  
+📧 Email: nouman_javaid@outlook.com
+🔗 [LinkedIn Profile](https://linkedin.com/in/noumanjavaid)
 
 ## ⚡ **Fun Fact**  
 I have a habit of making **data tell stories**—because **numbers are only useful when they make sense!**  
