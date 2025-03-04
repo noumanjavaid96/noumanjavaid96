@@ -24,11 +24,8 @@ I thrive on **turning data into decisions** and making AI work smarter for busin
 
 ## 📫 **Let’s Connect!**  
 📧 Email: nouman_javaid@outlook.com
+
 🔗 [LinkedIn Profile](https://linkedin.com/in/noumanjavaid)
 
 ## ⚡ **Fun Fact**  
 I have a habit of making **data tell stories**—because **numbers are only useful when they make sense!**  
-
----
-
-This one has **zero references** to your old intro but still captures your expertise and energy. What do you think?
