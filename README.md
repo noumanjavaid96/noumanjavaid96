@@ -1,6 +1,34 @@
-- 👋 Hi, I’m @noumanjavaid96
-- 👀 I’m interested in leveraging data to drive business decisions and enhance user experiences through effective prompt engineering.
-- 🌱 I’m currently learning advanced data analytics techniques and the latest trends in AI and machine learning.
-- 💞️ I’m looking to collaborate on projects that involve data visualization, AI-driven insights, and improving user interactions through optimized prompts.
-- 📫 How to reach me: You can contact me via my LinkedIn profile or email me at `noumanjavaid@renesistech.com`
-- ⚡ Fun fact: I once built a predictive model that helped a small business increase its revenue by 30% in just six months! XD
+
+
+## 👋 Hi, I’m Nouman Javid!  
+
+### 🚀 **Data-Driven Thinker | AI Enthusiast | Business Innovator**  
+
+I thrive on **turning data into decisions** and making AI work smarter for businesses. My passion lies in **solving complex problems** using **analytics, automation, and AI-driven insights**.  
+
+## 🔍 **What I Bring to the Table**  
+✔ **AI & ML Enthusiasm** – Always exploring new ways to apply AI in real-world business scenarios.  
+✔ **Predictive Insights** – Using data to **anticipate trends and optimize strategies** before they happen.  
+✔ **Prompt Engineering** – Crafting better AI interactions through refined prompts.  
+✔ **Data Storytelling** – Making complex datasets **visually meaningful and easy to understand**.  
+
+## 🌱 **Currently Exploring**  
+📌 The intersection of **AI, automation, and business intelligence**  
+📌 Cutting-edge **machine learning models**  
+📌 New trends in **data visualization and analytics tools**  
+
+## 🤝 **Open to Collaborations On**  
+🔹 AI-driven solutions for business optimization  
+🔹 Enhancing decision-making with **predictive analytics**  
+🔹 Designing **interactive data dashboards & reports**  
+
+## 📫 **Let’s Connect!**  
+📧 Email: noumanjavaid@renesistech.com  
+🔗 [LinkedIn Profile](#) *(Insert your link here!)*  
+
+## ⚡ **Fun Fact**  
+I have a habit of making **data tell stories**—because **numbers are only useful when they make sense!**  
+
+---
+
+This one has **zero references** to your old intro but still captures your expertise and energy. What do you think?
