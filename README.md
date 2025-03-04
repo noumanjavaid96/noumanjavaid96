@@ -1,8 +1,6 @@
-
-
 ## 👋 Hi, I’m Nouman Javid!  
 
-### 🚀 **Data-Driven Thinker | AI Enthusiast | Business Innovator**  
+### **Data-Driven Thinker | AI Enthusiast | Business Innovator**  
 
 I thrive on **turning data into decisions** and making AI work smarter for businesses. My passion lies in **solving complex problems** using **analytics, automation, and AI-driven insights**.  
 
@@ -12,7 +10,7 @@ I thrive on **turning data into decisions** and making AI work smarter for busin
 ✔ **Prompt Engineering** – Crafting better AI interactions through refined prompts.  
 ✔ **Data Storytelling** – Making complex datasets **visually meaningful and easy to understand**.  
 
-## 🌱 **Currently Exploring**  
+##  **Currently Exploring**  
 📌 The intersection of **AI, automation, and business intelligence**  
 📌 Cutting-edge **machine learning models**  
 📌 New trends in **data visualization and analytics tools**  
@@ -22,7 +20,7 @@ I thrive on **turning data into decisions** and making AI work smarter for busin
 🔹 Enhancing decision-making with **predictive analytics**  
 🔹 Designing **interactive data dashboards & reports**  
 
-## 📫 **Let’s Connect!**  
+## ** If you want to connect!**  
 📧 Email: nouman_javaid@outlook.com
 
 🔗 [LinkedIn Profile](https://linkedin.com/in/noumanjavaid)
