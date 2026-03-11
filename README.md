@@ -1,8 +1,5 @@
 # 👨‍💻 Nouman Javaid
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a1/nyan-cat.gif" alt="nyan cat" width="600" height="100">
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=Data-Driven+Thinker;AI+Enthusiast;Business+Innovator" alt="Typing SVG" />
